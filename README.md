@@ -1,2 +1,2 @@
 # PESU-IO
-We had our first hadn-on session today. We learnt how to make a page.
+We had our first hands-on session today. We learnt how to make a page.
